@@ -14,6 +14,10 @@ Metacello new
     repository: 'github://Willembrinck/SeekerOC-2022:main';
     load.
 ```
+## Main project repository
+
+SeekerOC is a fixed version and subpart of our main project SeekerDebugger.
+The updated version of our time-traveling debugger project can be found in its dedicated [repository](https://github.com/maxwills/SeekerDebugger).
 
 ## Time-Traveling Queries Usage / Quick reference:
 The Quick Reference pdf document is included in the repository, and can be accessed [here](./Resources/TTQs-QuickReference.pdf).
