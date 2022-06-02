@@ -16,7 +16,7 @@ Metacello new
 ```
 ## Main project repository
 
-SeekerOC is a fixed version and subpart of our main project SeekerDebugger.
+SeekerOC is a fixed version and subpart of our main project SeekerDebugger, made specifically for IWST 2022.
 The updated version of our time-traveling debugger project can be found in its dedicated [repository](https://github.com/maxwills/SeekerDebugger).
 
 ## Time-Traveling Queries Usage / Quick reference:
