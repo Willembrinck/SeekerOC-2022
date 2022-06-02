@@ -1,11 +1,10 @@
 # SeekerOC-2022
-SeekerOC-2022
 
-## Baseline
-
-SeekerOC: Prototype Scriptable Time-Traveling Queryable Debugger, with experimental object-centric TTQs.
+SeekerOC: Prototype Scriptable Time-Traveling Queryable Debugger, with experimental object-centric TTQs, for IWST 2022.
 
 Compatible with Pharo 9.0, Moose Suite 9.0, Pharo 10 at current date (2022-06-02).
+
+## Baseline
 
 Do this:
 ```Smalltalk
